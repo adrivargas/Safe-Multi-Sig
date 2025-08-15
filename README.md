@@ -50,14 +50,6 @@ Actualmente, estoy enfocada en crecer en el *ecosistema Web3* y en el desarrollo
 
 ---
 
-## 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
 ## 📫 Conecta conmigo
 <p>
   <a href="https://www.linkedin.com/in/adriana-vargas-desarrolladora/" target="_blank">
